@@ -1,4 +1,4 @@
-SAYING: النص الأول
+SAYING: النص hshsh
 SAYING: النص الثاني  
 STORY: القصة الأولى
 STATUS: الحالة الأولى
