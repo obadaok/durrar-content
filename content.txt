@@ -1,13 +1,1 @@
 
-SAYING: النص hshsh
-SAYING: النص الثاني  
-STORY: القصة الأولى
-STATUS: الحالة الأولى
-SAYING: النص الأول
-SAYING: النص الثاني  
-STORY: القصة الأولى
-STATUS: الحالة الأولى
-SAYING: النص الأول
-SAYING: النص الثاني  
-STORY: القصة الأولى
-STATUS: الحالة الأولى
