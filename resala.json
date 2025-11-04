@@ -1,42 +1,136 @@
 [
+  // --- 1. All / الكل --- (التصنيف العام هو "All" لكن يتم عرض الكل من خلال الكود)
+  
+  // --- 2. Islamic / إسلامية ---
   {
-    "message": "نص الرسالة الإسلامية هنا...",
-    "category": "إسلامية", 
-    "timestamp": 1679000000000 
+    "message": "The best of people are those who are most beneficial to people. Focus on good deeds.",
+    "category": "Islamic",
+    "timestamp": 1700000001000
   },
+
+  // --- 3. Supplications / أدعية وأذكار ---
   {
-    "message": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير.",
-    "category": "أدعية وأذكار",
-    "timestamp": 1679000100000
+    "message": "Oh Allah, I ask You for guidance, piety, abstinence, and independence.",
+    "category": "Supplications",
+    "timestamp": 1700000002000
   },
+
+  // --- 4. SalafSayings / اقوال أئمة السلف ---
   {
-    "message": "من أقوال أئمة السلف في الإيمان...",
-    "category": "اقوال أئمة السلف",
-    "timestamp": 1679000200000
+    "message": "Imam Shafi'i said: 'My speech that contradicts the Sunnah is invalid.'",
+    "category": "SalafSayings",
+    "timestamp": 1700000003000
   },
+
+  // --- 5. ModernScholars / اقوال العلماء المعاصرين ---
   {
-    "message": "إن التفاؤل هو أن ترى النور وسط الظلام...",
-    "category": "امل وتفاؤل",
-    "timestamp": 1679000300000
+    "message": "Sheikh Al-Uthaymeen: 'The best thing for a believer is beneficial knowledge and righteous deeds.'",
+    "category": "ModernScholars",
+    "timestamp": 1700000004000
   },
+
+  // --- 6. MorningEvening / صباحية ومسائية ---
   {
-    "message": "صباح الخير، اجعل يومك سعيدًا بذكر الله.",
-    "category": "صباحية ومسائية",
-    "timestamp": 1679000400000
+    "message": "Good morning! May Allah grant you success and bless your new day.",
+    "category": "MorningEvening",
+    "timestamp": 1700000005000
   },
+
+  // --- 7. Wisdom / حكم وأمثال ---
   {
-    "message": "أمثال وحكمة تقول: ليس كل ما يلمع ذهباً.",
-    "category": "حكم وأمثال",
-    "timestamp": 1679000500000
+    "message": "Happiness is not having everything you want, but enjoying everything you have.",
+    "category": "Wisdom",
+    "timestamp": 1700000006000
   },
+
+  // --- 8. Thoughts / عبارات وخواطر ---
   {
-    "message": "The sun is shining today, enjoy the good weather.",
-    "category": "english",
-    "timestamp": 1679000600000
+    "message": "The truth needs no exaggeration; its sincerity lies in its simplicity.",
+    "category": "Thoughts",
+    "timestamp": 1700000007000
   },
+
+  // --- 9. BookBenefits / فوائد من الكتب ---
   {
-    "message": "أبي وأمي هم سندي وقوتي في الحياة.",
-    "category": "عن الأم والاب",
-    "timestamp": 1679000700000
+    "message": "From 'Don't Be Sad': Don't worry about this world, it belongs to God.",
+    "category": "BookBenefits",
+    "timestamp": 1700000008000
+  },
+  
+  // --- 10. StoriesLessons / قصص وعبر ---
+  {
+    "message": "The lesson from the story of Prophet Yusuf is that God's plan is always better than ours.",
+    "category": "StoriesLessons",
+    "timestamp": 1700000009000
+  },
+
+  // --- 11. AboutLife / عن الحياة ---
+  {
+    "message": "Life is a short journey, so invest it in building a lasting legacy with good deeds.",
+    "category": "AboutLife",
+    "timestamp": 1700000010000
+  },
+
+  // --- 12. Parents / عن الأم والاب ---
+  {
+    "message": "Parents are the only people who love you unconditionally. Honor them always.",
+    "category": "Parents",
+    "timestamp": 1700000011000
+  },
+
+  // --- 13. Siblings / عن الإخوة ---
+  {
+    "message": "Siblings are the first source of support in life. Hold on to them.",
+    "category": "Siblings",
+    "timestamp": 1700000012000
+  },
+
+  // --- 14. HopeOptimism / امل وتفاؤل ---
+  {
+    "message": "Hope is a sun that never sets. Be optimistic, and good will come to you.",
+    "category": "HopeOptimism",
+    "timestamp": 1700000013000
+  },
+
+  // --- 15. Motivational / عبارات تحفزية ---
+  {
+    "message": "Success is the sum of small efforts repeated day in and day out.",
+    "category": "Motivational",
+    "timestamp": 1700000014000
+  },
+
+  // --- 16. Praise / مدح ---
+  {
+    "message": "Your presence brings joy and positive energy to everyone around you.",
+    "category": "Praise",
+    "timestamp": 1700000015000
+  },
+
+  // --- 17. Eid / العيد ---
+  {
+    "message": "Happy Eid! May Allah accept our good deeds and bring us happiness.",
+    "category": "Eid",
+    "timestamp": 1700000016000
+  },
+
+  // --- 18. Ramadan / رمضان ---
+  {
+    "message": "Ramadan is the month of mercy and forgiveness. May we be blessed to worship in it.",
+    "category": "Ramadan",
+    "timestamp": 1700000017000
+  },
+
+  // --- 19. Various / متنوعة ---
+  {
+    "message": "Be kind, for everyone you meet is fighting a battle you know nothing about.",
+    "category": "Various",
+    "timestamp": 1700000018000
+  },
+
+  // --- 20. English / english ---
+  {
+    "message": "The only way to do great work is to love what you do.",
+    "category": "English",
+    "timestamp": 1700000019000
   }
 ]
